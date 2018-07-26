@@ -4,6 +4,8 @@ about: Describe this issue template's purpose here.
 
 ---
 
+Please fill out template and delete text in brackets as you go
+
 ### Description: ###
 (Include a description of what you want to be done) 
 
